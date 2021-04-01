@@ -1,0 +1,15 @@
+D:\.NetCore\AssignmentApp\AA.DAL\bin\Debug\net5.0\AA.DAL.deps.json
+D:\.NetCore\AssignmentApp\AA.DAL\bin\Debug\net5.0\AA.DAL.dll
+D:\.NetCore\AssignmentApp\AA.DAL\bin\Debug\net5.0\ref\AA.DAL.dll
+D:\.NetCore\AssignmentApp\AA.DAL\bin\Debug\net5.0\AA.DAL.pdb
+D:\.NetCore\AssignmentApp\AA.DAL\obj\Debug\net5.0\AA.DAL.csprojAssemblyReference.cache
+D:\.NetCore\AssignmentApp\AA.DAL\obj\Debug\net5.0\AA.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NetCore\AssignmentApp\AA.DAL\obj\Debug\net5.0\AA.DAL.AssemblyInfoInputs.cache
+D:\.NetCore\AssignmentApp\AA.DAL\obj\Debug\net5.0\AA.DAL.AssemblyInfo.cs
+D:\.NetCore\AssignmentApp\AA.DAL\obj\Debug\net5.0\AA.DAL.csproj.CoreCompileInputs.cache
+D:\.NetCore\AssignmentApp\AA.DAL\obj\Debug\net5.0\AA.DAL.dll
+D:\.NetCore\AssignmentApp\AA.DAL\obj\Debug\net5.0\ref\AA.DAL.dll
+D:\.NetCore\AssignmentApp\AA.DAL\obj\Debug\net5.0\AA.DAL.pdb
+D:\.NetCore\AssignmentApp\AA.DAL\bin\Debug\net5.0\AA.Entities.dll
+D:\.NetCore\AssignmentApp\AA.DAL\bin\Debug\net5.0\AA.Entities.pdb
+D:\.NetCore\AssignmentApp\AA.DAL\obj\Debug\net5.0\AA.DAL.csproj.CopyComplete

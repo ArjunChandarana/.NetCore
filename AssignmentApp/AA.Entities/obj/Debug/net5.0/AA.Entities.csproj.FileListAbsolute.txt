@@ -1,0 +1,11 @@
+D:\.NetCore\AssignmentApp\AA.Entities\bin\Debug\net5.0\AA.Entities.deps.json
+D:\.NetCore\AssignmentApp\AA.Entities\bin\Debug\net5.0\AA.Entities.dll
+D:\.NetCore\AssignmentApp\AA.Entities\bin\Debug\net5.0\ref\AA.Entities.dll
+D:\.NetCore\AssignmentApp\AA.Entities\bin\Debug\net5.0\AA.Entities.pdb
+D:\.NetCore\AssignmentApp\AA.Entities\obj\Debug\net5.0\AA.Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NetCore\AssignmentApp\AA.Entities\obj\Debug\net5.0\AA.Entities.AssemblyInfoInputs.cache
+D:\.NetCore\AssignmentApp\AA.Entities\obj\Debug\net5.0\AA.Entities.AssemblyInfo.cs
+D:\.NetCore\AssignmentApp\AA.Entities\obj\Debug\net5.0\AA.Entities.csproj.CoreCompileInputs.cache
+D:\.NetCore\AssignmentApp\AA.Entities\obj\Debug\net5.0\AA.Entities.dll
+D:\.NetCore\AssignmentApp\AA.Entities\obj\Debug\net5.0\ref\AA.Entities.dll
+D:\.NetCore\AssignmentApp\AA.Entities\obj\Debug\net5.0\AA.Entities.pdb

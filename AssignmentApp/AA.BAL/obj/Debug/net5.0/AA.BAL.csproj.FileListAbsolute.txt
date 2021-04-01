@@ -1,0 +1,17 @@
+D:\.NetCore\AssignmentApp\AA.BAL\bin\Debug\net5.0\AA.BAL.deps.json
+D:\.NetCore\AssignmentApp\AA.BAL\bin\Debug\net5.0\AA.BAL.dll
+D:\.NetCore\AssignmentApp\AA.BAL\bin\Debug\net5.0\ref\AA.BAL.dll
+D:\.NetCore\AssignmentApp\AA.BAL\bin\Debug\net5.0\AA.BAL.pdb
+D:\.NetCore\AssignmentApp\AA.BAL\obj\Debug\net5.0\AA.BAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NetCore\AssignmentApp\AA.BAL\obj\Debug\net5.0\AA.BAL.AssemblyInfoInputs.cache
+D:\.NetCore\AssignmentApp\AA.BAL\obj\Debug\net5.0\AA.BAL.AssemblyInfo.cs
+D:\.NetCore\AssignmentApp\AA.BAL\obj\Debug\net5.0\AA.BAL.csproj.CoreCompileInputs.cache
+D:\.NetCore\AssignmentApp\AA.BAL\obj\Debug\net5.0\AA.BAL.dll
+D:\.NetCore\AssignmentApp\AA.BAL\obj\Debug\net5.0\ref\AA.BAL.dll
+D:\.NetCore\AssignmentApp\AA.BAL\obj\Debug\net5.0\AA.BAL.pdb
+D:\.NetCore\AssignmentApp\AA.BAL\bin\Debug\net5.0\AA.DAL.dll
+D:\.NetCore\AssignmentApp\AA.BAL\bin\Debug\net5.0\AA.Entities.dll
+D:\.NetCore\AssignmentApp\AA.BAL\bin\Debug\net5.0\AA.DAL.pdb
+D:\.NetCore\AssignmentApp\AA.BAL\bin\Debug\net5.0\AA.Entities.pdb
+D:\.NetCore\AssignmentApp\AA.BAL\obj\Debug\net5.0\AA.BAL.csprojAssemblyReference.cache
+D:\.NetCore\AssignmentApp\AA.BAL\obj\Debug\net5.0\AA.BAL.csproj.CopyComplete
